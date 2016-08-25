@@ -23,12 +23,20 @@ Run Houdini and Open Submission_03.hip file.
 
 ## Release History
 
+# Developing Stages
+
 * Submission_01 : This file has the initial model of having particles.
    
 * Submission_02: This file has particles running over through a path.
     * NOTE: The path.obj and ooo.obj must be imported. 
    
-* Submission_03: File with rendered sequence working.
+File with rendered sequence working. Each file has its parameters like force modified to show different amounts of variation in the particles movement.
+
+* Submission_03A: All particles spread widely
+
+* Submission_03B: Movement is restricted a bit
+
+* Submission_03C:  Movement is tight
 
 ## Meta
 
