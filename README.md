@@ -1,8 +1,8 @@
 # Masters Project 2016
-> Short blurb about what your product does.
+> Replicating Particle Behaviours.
 
 
-This project is developed with Houdini 15 on Linux machine.
+This project is developed with Houdini 15.
 
 ![](header.png)
 
@@ -10,19 +10,16 @@ This project is developed with Houdini 15 on Linux machine.
 
 This program runs in Houdini on any platforms: OS X , Windows & Linux.
 
-## Usage example
+## Idea behind project
+![](Ad_01.jpg)
+![](Ad_02.png)
+Seeing Sony's Bravias Ad, I wanted to create a similar effect using particle systems.
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 ## Development setup
 Run Houdini and Open the hip file.
 
 ![](open.png)
-
-```sh
-make install
-npm test
-```
 
 ## Release History
 
