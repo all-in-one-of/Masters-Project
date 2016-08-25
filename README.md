@@ -17,24 +17,18 @@ Seeing Sony's Bravias Ad, I wanted to create a similar effect using particle sys
 
 
 ## Development setup
-Run Houdini and Open the hip file.
+Run Houdini and Open Submission_03.hip file.
 
 ![](open.png)
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+* Submission_01 : This file has the initial model of having particles.
+   
+* Submission_02: This file has particles running over through a path.
+    * NOTE: The path.obj and ooo.obj must be imported. 
+   
+* Submission_03: File with rendered sequence working.
 
 ## Meta
 
